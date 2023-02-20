@@ -1,0 +1,26 @@
+[
+    {
+        "id": "f94646e5-c1a3-4f16-a11d-3c88b291f2ed",
+        "title": "Array.indexOf(searchElement, fromIndex) Method",
+        "body": "indexOf method Has predefined 2 arguments searchElement, fromIndex but if we give only fast argument then it only riturns the element's index and when we specify the second argument this method searchs after from that perticular index.",
+        "createdAt": "2023-02-16T10:49:05.530Z"
+    },
+    {
+        "id": "ecc1df8b-936a-47b3-b862-4cd4074ce178",
+        "title": "About Nani420",
+        "body": "eeeee nani Anani.......420",
+        "createdAt": "2023-02-20T13:44:36.781Z"
+    },
+    {
+        "id": "6049cc2f-2096-40fb-8a39-cfc42d9fc1ab",
+        "title": "About Nani110",
+        "body": "eeeee nani Anani.......110",
+        "createdAt": "2023-02-20T14:27:28.766Z"
+    },
+    {
+        "id": "4c4f7125-65e7-429d-a598-74ad08456119",
+        "title": "About Nani200",
+        "body": "eeeee nani Anani.......200",
+        "createdAt": "2023-02-20T15:19:04.241Z"
+    }
+]

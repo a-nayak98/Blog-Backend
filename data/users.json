@@ -1,0 +1,52 @@
+[
+    {
+        "Id": "47fc9216-1f43-4dde-b798-25a784168cab",
+        "Name": "ruthala Madhu",
+        "Posts": [],
+        "Comments": [],
+        "Email": "ruthala@email.com",
+        "Password": "$2a$10$Cg9pavPP0L5aMdVxo9/lqe8KtLCKrqYNKmjh9iHhgi/x.80lg/ENe",
+        "isAdmin": false,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkSWQiOiI0N2ZjOTIxNi0xZjQzLTRkZGUtYjc5OC0yNWE3ODQxNjhjYWIiLCJpYXQiOjE2NzY4OTM3MzQsImV4cCI6MTY3Njg5NDAzNH0.Pi3CfyamL8NlPkqNob2SVsA44MByus_RUubFD_9zYr8"
+    },
+    {
+        "Id": "9253c4f0-4bdf-4e88-8e8f-8d01672b6a85",
+        "Name": "Ranku Rangila",
+        "Posts": [],
+        "Comments": [],
+        "Email": "Rangila@email.com",
+        "Password": "$2a$10$SWS8Uc6djZnxyWdOQbmpd.dIiE7usyp4KrPTZ9jQ5pqyTWTrioJwi",
+        "isAdmin": false,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkSWQiOiI5MjUzYzRmMC00YmRmLTRlODgtOGU4Zi04ZDAxNjcyYjZhODUiLCJpYXQiOjE2NzY4OTM3NjAsImV4cCI6MTY3Njg5NDA2MH0.YpetrIWsBO3xVZdTvRG0TqFImsDZEvMTPaWd44l4J3A"
+    },
+    {
+        "Id": "17439ed4-8fe9-4cd9-b9bf-658d146571d8",
+        "Name": "Babu Mosaye",
+        "Posts": [],
+        "Comments": [],
+        "Email": "Mosaye@email.com",
+        "Password": "$2a$10$uYkKO.cEtM9zMr8A3KvoH.pvENGMmKulp2jAS3uqZUDCNH7s.BjLS",
+        "isAdmin": false,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkSWQiOiIxNzQzOWVkNC04ZmU5LTRjZDktYjliZi02NThkMTQ2NTcxZDgiLCJpYXQiOjE2NzY4OTM3ODQsImV4cCI6MTY3Njg5NDA4NH0.-Wh9YFEO1nYVHCccRKBtOwW7IUG_6tETNvP03TfsWBw"
+    },
+    {
+        "Id": "9bbe2a17-fb98-49cb-b13d-8b8ac72928d8",
+        "Name": "Sanjib Samanta",
+        "Posts": [],
+        "Comments": [],
+        "Email": "Samanta@email.com",
+        "Password": "$2a$10$w7VBVBLioHLz.Bh4Hdt3C.ah6AZWVQ0F7gnOPaxr3bPz4WYAbcuiW",
+        "isAdmin": false,
+        "token": null
+    },
+    {
+        "Id": "39ccc5dc-4428-4e6b-afdd-2d8589f11e3a",
+        "Name": "Jadumani Sarkar",
+        "Posts": [],
+        "Comments": [],
+        "Email": "Sarkar@email.com",
+        "Password": "$2a$10$dYYI3oAMDVykDwQZbatIve5XwCbC.q8dtMyEDSsF7dxM6hNKmefE6",
+        "isAdmin": false,
+        "token": null
+    }
+]
